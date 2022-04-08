@@ -25,7 +25,7 @@ while True:
     alpha = ""
 
     # start game loop 
-    while inner_loop <= 10:
+    while inner_loop <= 5:
         guess = input("What is your guess? ")
 
         result = ""
