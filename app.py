@@ -1,6 +1,15 @@
+import nltk
 from nltk.corpus import words
 from colorama import Back
 import random
+
+"""
+
+
+"""
+
+# Run this once to download wordlist file 
+nltk.download()
 
 while True:
     print("Start a new game? (y/quit)")
